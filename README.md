@@ -1,4 +1,4 @@
-# uvv_bd_1_TURMA
+# uvv_bd_1_SI1N
 ## PSET-01 PROPOSTO PELO O PROFESSOR ABRANTES
 Com essa experiencia tão interassante, tive o poder de praticar e estudar as funcionalidades e importancia de utilizar um SGBD.
 ## PostgreSQL:
